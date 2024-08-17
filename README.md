@@ -7,19 +7,29 @@ This repository hosts a dynamic COVID-19 analytics dashboard built using Power B
 Optimized COVID-19 Data Pipeline in Power BI
 Preprocessing: 
 Data Refinement:Streamlined the dataset by eliminating duplicate entries, rectifying missing values, and filtering out extraneous columns to ensure data integrity and accuracy.
+
 *Integration of Computed Metrics:Introduced calculated columns encompassing vital metrics like mortality rate, recovery rate, and active cases, enhancing the dataset's depth and analytical capabilities. Implemented dynamic measures to capture daily fluctuations in new cases, deaths, and recoveries, furnishing real-time insights. 
+
 Architectural Framework:
 * Structural Mapping:Forged a robust data model, interlinking tables through coherent relationships predicated on shared attributes such as country/region and date. Engineered hierarchies and meticulously sorted data fields to augment the ease of exploration and interpretation within the Power BI environment.
 Features
 
 Worldwide Overview:
 Visualizations: Total cases, deaths, recoveries (cumulative and daily), trend lines, and comparison charts for various countries.
+
 Visualizations: Interactive maps, bar charts, and tables displaying key metrics (cases, deaths, testing rates) for selected countries.
+
 Visualizations: Stacked bar charts, line graphs, and trend analysis plots illustrating monthly trends in cases, deaths, and recoveries globally or by region.
+
 Visualizations: Heatmaps, choropleth maps, and line charts showcasing COVID-19 statistics at the national, state, and county levels. 
+
 This model provides a structured approach to organizing your dashboard, ensuring that it covers essential features and insights for users interested in monitoring the global pandemic situation.
+
 Trustworthy COVID-19 Insights: Leveraging Premier Data Sources for Accurate Analysis in Power BI"
-The dashboard aggregates current COVID-19 data from authoritative repositories including the World Health Organization (WHO), Johns Hopkins University, and esteemed academic institutions. All preprocessing and analytical procedures are executed directly within Power BI, guaranteeing precision and trustworthiness in the presented insights.
+
+The dashboard aggregates current COVID-19 data from authoritative repositories including the World Health Organization (WHO), Johns Hopkins University, and esteemed academic institutions. All preprocessing and 
+analytical procedures are executed directly within Power BI, guaranteeing precision and trustworthiness in the presented insights.
+
 "Unlocking COVID-19 Trends: Your Guide to Navigating the Power BI Dashboard"
 Dive into the realm of COVID-19 analytics with our interactive Power BI dashboard. Here's how:
 Access the Dashboard: Clone or download the repository onto your device.
